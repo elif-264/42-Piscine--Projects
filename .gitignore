@@ -50,6 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
 # macOS / Linux system files
 .DS_Store
 Thumbs.db
