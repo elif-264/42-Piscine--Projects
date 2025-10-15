@@ -1,4 +1,7 @@
 # 42 Piscine — Projects
+![C](https://img.shields.io/badge/language-C-blue)
+![Shell](https://img.shields.io/badge/language-Shell-green)
+![Status](https://img.shields.io/badge/status-Completed-success)
 
 This repository contains my C and Shell exercises from the **42 Piscine** program.
 
